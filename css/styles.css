@@ -5,3 +5,8 @@
     width: 100%;
     background-image:no repeat;
   }
+  #image-logo{
+  display: block;
+  margin-right: auto;
+    margin-left: auto;
+    padding-top:90px;
