@@ -118,3 +118,14 @@
   .align-images-center{padding-left:120px;
     border-right: 2px solid black;
    }
+   .footer{
+       background: url("../img/backgrounds/subscribe.jpg");
+     }
+
+     .email-title{color:white;
+           text-align: center;}
+     .section-center{margin-left: 40%;}
+
+     .backgroung-img {
+       background: #F15A29;
+     }
