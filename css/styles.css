@@ -10,3 +10,10 @@
   margin-right: auto;
     margin-left: auto;
     padding-top:90px;
+  }
+  #header-backgroung p{color:white;
+      text-align: center;
+      font-size: 25px;
+      font-family: arial;
+      font-style: bold;
+    }
