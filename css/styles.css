@@ -70,3 +70,43 @@
     display: block;
     overflow: hidden;
   }
+  #backgroun-image{
+    background-image: url("../img/backgrounds/foodsBg.jpg");
+    height:400px;
+  background-repeat:no repeat;
+  }
+.main-2{
+  width:80%;
+  height:30%;
+  background-color:white;
+  text-align: center;
+  padding-left:20px;
+  padding-top:40px;
+  margin-top: 50px;
+}
+.main-3{
+  width:100%;
+  height:40%;
+  background-color:white;
+  padding-bottom:30px;
+  padding:30px;
+  margin:50px;
+}
+
+
+  #float-right{
+    float:right;
+  }
+
+  .float-right {
+      float:right;
+  }
+  .float-left {
+    float:left;
+}
+
+  #fastfood-row{
+    margin :50px;
+
+  }
+  
