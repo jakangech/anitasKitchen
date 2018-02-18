@@ -25,3 +25,12 @@
         padding-left:0px;
 
       }
+      #party-time{
+      background-image:url("../img/backgrounds/landing.jpg");
+      color: white;
+      font-size: 30px;
+      height:80px;
+      overflow: hide;
+      padding-left:0px;
+
+    }
