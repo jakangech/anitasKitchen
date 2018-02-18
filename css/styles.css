@@ -109,4 +109,12 @@
     margin :50px;
 
   }
-  
+  .menu-images{padding:50px;}
+  .menu-text p{text-align: center;
+  padding:auto;
+  padding-top: 20px;
+  }
+  .customer-images{padding: 15px;}
+  .align-images-center{padding-left:120px;
+    border-right: 2px solid black;
+   }
