@@ -140,3 +140,10 @@
        text-align: left;
        color: white;
      }
+     .breakfast{background-image: url("../img/foodtop/breakfast.jpg");
+                   height:170px;
+                   text-align: center;
+                   color: white;
+                   padding-top: 30px;
+                   font-size: 25px;
+                   }
