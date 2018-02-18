@@ -52,3 +52,13 @@
   padding: 80px;
   width:20%;
 }
+.dinner{height:200px;
+    margin: 0px;
+    background-image: url("../img/foodtop/dinner.jpg");
+    text-align: center;
+    color: white;
+    vertical-align: middle;
+    padding: 80px;
+    overflow: hidden;
+    width:20%;
+  }
