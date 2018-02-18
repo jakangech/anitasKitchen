@@ -34,3 +34,12 @@
       padding-left:0px;
 
     }
+    .breakfast{height:200px;
+    margin: 0px;
+    background-image: url("../img/foodtop/breakfast.jpg");
+    text-align: center;
+    color: white;
+    vertical-align: middle;
+    padding: 80px;
+    width:20%;
+  }
