@@ -147,3 +147,24 @@
                    padding-top: 30px;
                    font-size: 25px;
                    }
+                   .breakfast:hover{
+                       opacity: 0.5;
+                     }
+                     .lunch{background-image: url("../img/foodtop/lunch.jpg");
+                             height:170px;
+                             text-align: center;
+                             color: white;
+                             padding-top: 30px;
+                             font-size: 25px;}
+                     .lunch:hover{
+                                 opacity: 0.5;
+                     }
+                     .dinner{background-image: url("../img/foodtop/dinner.jpg");
+                             height: 170px;
+                             text-align: center;
+                             color: white;
+                             padding-top: 30px;
+                             font-size: 25px;}
+                     .dinner:hover{
+                       opacity:0.5;
+                     }
