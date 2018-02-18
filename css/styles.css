@@ -17,3 +17,11 @@
       font-family: arial;
       font-style: bold;
     }
+    happy-hour{
+        background-color: grey;
+        color: black;
+        font-size: 30px;
+        height:80px;
+        padding-left:0px;
+
+      }
