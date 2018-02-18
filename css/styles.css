@@ -63,3 +63,10 @@
     width:20%;
   }
   #button{background-color: grey;}
+  #fastfood-image{
+    background-image: url("img/fastfood6.jpg");
+    height:350px;
+    width: 50%;
+    display: block;
+    overflow: hidden;
+  }
