@@ -129,3 +129,14 @@
      .backgroung-img {
        background: #F15A29;
      }
+     .footer-menu {
+       padding: 20px;
+     }
+     .Tocenter{margin-left: 47%;}
+     .nav-btn {
+       display: block;
+       font-size: 40px;
+       cursor: pointer;
+       text-align: left;
+       color: white;
+     }
